@@ -7,6 +7,8 @@ Huomioita:
 - ylimääräistä tilaa ei juuri ole, joten kokoaminen saattaa olla haastavaa (levyjen väliset johdot ovat todella lyhyet)
 - leikkaa korvakkeet pois paristokotelosta
 - osien pitäisi pysyä paikoillaan ilman liimaa/muita kiinnikkeitä jos kotelo on oikean kokoinen
+ 
+Alempana olevassa kuvassa on kotelo, joka on tulostettu 0,2 mm kerrospaksuudella sinisellä PLA:lla (tulostimena käytetty Tinkerine Studiosin Littoa: http://store.tinkerine.com/products/diy-kits).
 
 Kotelo kyljestä kuvattuna:
 
@@ -33,3 +35,6 @@ Kotelo kyljestä kuvattuna:
 - **********************************  | -
 -----------------------------------------  <-- kansi
 ````
+
+Kuva laitteesta toiminnassa:
+![viritin](http://relativity.fi/viritin/viritin.jpg)
